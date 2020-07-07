@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948164415501",
+    "firebase_url": "https://suncoffee-76f69.firebaseio.com",
+    "project_id": "suncoffee-76f69",
+    "storage_bucket": "suncoffee-76f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948164415501:android:501855389f31822d",
+        "android_client_info": {
+          "package_name": "com.example.suncoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948164415501-cm355jfs9b1epev3nc5kq0c68ipblml6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suncoffee",
+            "certificate_hash": "c5c310cc6e4855c748115fc442224188d683d760"
+          }
+        },
+        {
+          "client_id": "948164415501-pmjl5a1i0h70dut70k5hcc9vu5pja2g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3PJmfaZx5UaZZHBpFZmBIN8LpuGf5ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948164415501-pmjl5a1i0h70dut70k5hcc9vu5pja2g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

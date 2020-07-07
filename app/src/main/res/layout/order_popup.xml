@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="450dp"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_menu"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONGRATULATION!"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_green_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your Order Has Been Placed"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_green_dark"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to The Store to Grab Your Drinks and Make Payment"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@android:color/holo_green_dark"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_checked"
+        android:scaleType="fitXY"
+        android:id="@+id/img_close"
+        android:layout_gravity="center"/>
+</LinearLayout>
